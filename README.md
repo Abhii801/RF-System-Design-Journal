@@ -30,5 +30,4 @@
 - [ ] **Week 16:** Certification (ETSI EN 300 328, FCC Part 15, RED)
 
 ---
-*Created via CLI Automation*
-"@
+
