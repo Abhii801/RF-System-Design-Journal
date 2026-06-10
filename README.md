@@ -1,6 +1,6 @@
 # RF System Design Journal
 
-**Goal:** Master RF Engineering from First Principles to Industrial BLE Gateway Design.
+**Goal:** Master RF Engineering from First Principles to Industrial BLE Design.
 **Focus:** Mathematics (IQ/FFT), RF Physics (Smith Charts), and BLE Mesh Architecture.
 
 ## 📚 16-Week Master Roadmap
